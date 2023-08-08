@@ -12,7 +12,7 @@ documentation at https://polaris.shopify.com/patterns/date-picking/single-date
   - react
   - tailwind.css
   - typescript
-- You may pick any of the patterns described (single-date, date range or date list):
+- You may pick any of the patterns described (single-date, date range or date list)
 - You should include your component in a sample next.js page added to this project
 - Your example page can do anything you want, so show off what it can do!
 - Your component should be added to the storybook in this project
@@ -24,6 +24,10 @@ documentation at https://polaris.shopify.com/patterns/date-picking/single-date
 - You should be prepared to discuss your changes in detail and explain why they are great.
 
 ## Solution: Usability and Capabilities:
+
+<img width="1294" alt="image" src="https://github.com/FocusedDiversity/synaptiq-skilltests/assets/20477927/05e01f06-69bb-472e-9720-f26c8745aa6a">
+
+<img width="1297" alt="image" src="https://github.com/FocusedDiversity/synaptiq-skilltests/assets/20477927/79f3849c-6e84-4d84-9a86-4d2711f43cb2">
 
 - The component is using the “single date” pattern https://polaris.shopify.com/patterns/date-picking/single-date
 - Calendar is only enabled for current month, since the Weather api has a restriction for free accounts (Only permits get data from current month).
